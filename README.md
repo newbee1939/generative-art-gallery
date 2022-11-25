@@ -1,4 +1,6 @@
 # generative-art-gallery
+generative-artリポジトリの作品とソースコードをまとめる
+
 とりあえず以下のコマンドでプロジェクトを作成したところ
 npx create-next-app@latest --typescript .
 
