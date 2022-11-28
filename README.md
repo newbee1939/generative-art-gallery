@@ -13,3 +13,7 @@ npx create-next-app@latest --typescript .
   - https://www.youtube.com/watch?v=hL6bDTNQhAc
 - Vercelダッシュボード
   - https://vercel.com/dashboard  
+
+## Skills
+- Next.js
+- Vercel
