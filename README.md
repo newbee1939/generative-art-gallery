@@ -15,5 +15,6 @@ npx create-next-app@latest --typescript .
   - https://vercel.com/dashboard  
 
 ## Skills
+- TypeScript
 - Next.js
 - Vercel
