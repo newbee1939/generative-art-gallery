@@ -17,4 +17,5 @@ npx create-next-app@latest --typescript .
 ## Skills
 - TypeScript
 - Next.js
+- React
 - Vercel
